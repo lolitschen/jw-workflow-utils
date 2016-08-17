@@ -23,9 +23,9 @@ JW Workflow Utils provides scripts and tools that serve as quality of life impro
 3. Install fs-watch
 
     ``` brew install fs-watch```
-    
+
 4. To run:
 
     ``` cd /path/to/utils ```
 
-    ``` ./fswatch-rsync.sh```
+    ``` ./fswatch-rsync.sh ```
